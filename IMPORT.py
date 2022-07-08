@@ -1,2 +1,0 @@
-import privet
-privet. privet()
